@@ -1,0 +1,3 @@
+[submodule "mylife-designer"]
+	path = mylife-designer
+	url = https://github.com/ecchochan/mylife-designer.git
